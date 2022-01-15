@@ -9,5 +9,6 @@ module.exports = {
         message.channel.send("<@763150093494386698>")
         message.channel.send("<@763150093494386698>")
         message.channel.send("<@763150093494386698>")
+        message.channel.send('sorry for making this but BTW EVERYONE IF U WANT TO TROLL BADGER AND MAKE HIM MAD DO THE FOLLOWING COMMAND : s.spamb again sorry badger <3')
     }
 }
